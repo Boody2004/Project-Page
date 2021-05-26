@@ -6,6 +6,10 @@ const projects = [
 	{
 		name: 'Teacher Site',
 		url: 'https://teacher-site.herokuapp.com/',
+	},
+	{
+		name: 'Mnen App',
+		url: 'https://mnen.herokuapp.com/',
 	}
 ];
 
