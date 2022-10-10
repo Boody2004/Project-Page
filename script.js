@@ -1,15 +1,19 @@
 const projects = [
   {
-    name: "Mnen Ap",
-    url: "https://github.com/Boody2004/mnen-app-new",
+    name: "Elgaratours",
+    url: "https://github.com/Boody2004/elgalatours-app",
   },
   {
     name: "Yrwo Web",
     url: "https://github.com/Boody2004/yrwo-website",
   },
   {
+    name: "Mnen App",
+    url: "https://github.com/Boody2004/mnen-app-new",
+  },
+  {
     name: "Week Days",
-    url: "https://github.com/Boody2004/week-days/settings",
+    url: "https://github.com/Boody2004/week-days",
   },
   {
     name: "Kasper Template",
